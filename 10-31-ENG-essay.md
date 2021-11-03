@@ -6,4 +6,10 @@ The second divergence of opinion is the significance of language support lessons
 
 The last collision point places on the quantity of suitable teaching material. Galloway presented that, some teachers deem that the stuff can be used in EMI lesson is not enough, at the same time students don't think so(para. 5). One of the explanation looks feasible is the teaching material should to be both enough easy to let student understand and professional to giving students enough knowledge on their profession lessons, and material fits the rule is not easy to find. However, students which prepared for EMI still consider language more that the content taught. It's easy to observe that The balance between knowledge and globalize tool is inclining more to the latter on the students' view.
 
+However, both instructors and students all agree that EMI's language side benefits. According to Wong(2010), students in strictly English teaching environment are seem perform better that the students in a loose language environment which permitted to use their mother tongue(119). 
+
 In conclusion, the three different type of arguments mainly exist on the trade-off of content and language tool. EMI is set for the international communication demand, not only beneficial on students' career prospect, but also good for economical increment. Although there are some different voices on the conduction of EMI lessons, it comply with the flow of globalization. With more and more practice and development, EMI will help the affected step to the bigger world.
+
+Galloway, N. (2017). How effective is English as a medium of instruction (EMI)?. Retrieved from https://www.britishcouncil.org/voices-magazine/how-effective-english-medium-instruction-emi
+
+Wong, R. M. H. (2010). The Effectiveness of Using English as the Sole Medium of Instruction in English Classes: Student Responses and Improved English Proficiency. *Porta Linguarum, 13*. 119-130.
