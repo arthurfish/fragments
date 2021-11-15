@@ -1,0 +1,12 @@
+备份塞尔达传说
+
+vscode 安装Jupyter插件
+在mail应用里登陆温肯邮箱和美肯邮箱
+epub 阅读器
+环境变量添加vscode
+
+输入法关闭简繁切换快捷键
+QQ关闭快捷键
+
+安装Droid Sans Mono字体
+设置git bash字体
