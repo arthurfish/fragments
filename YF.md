@@ -1,3 +1,4 @@
+
 //Purpose: Calculate the current problem by some steps
 //and the output the result. With some information promt
 //and some variable defined then initialized.
@@ -13,6 +14,7 @@
 //Do some procedure with the data, make the quantities
 //fit the require of the problem, and make sure there
 //are no memory leak or logic error.
+
 
 //Step 3:
 //Since we get the needed result, then we output it
