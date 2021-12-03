@@ -1,9 +1,0 @@
-Reflection on Teamwork
-
-When we finished the teamwork presentation, summarizing the advantage can increase our confidence, and summarizing the disadvantage can help us be better. Now I will present the both side, not only for homework, but also for confidence and a better myself.
-
-The advantage of my performance on teamwork have three parts. First and the most import, I am very proud to come up with such a creative idea from my daily seen. I can't see the same degree of creativity among all the participated group. next, the plan we came up with is very practical for implement. For example, we even can share this plan to WKU Mengya association and easily apply this idea on the particular teaching activities. last, all of the team work cooperating very well. And I also gather the more sufficient knowledge of cooperation. These advantage makes me feel more energetic on the way of learning.
-
-Disadvantage parts can also can be divided as three components. Firstly I didn't cite my presentation content so I just spoke with the hint of iPad. I once heard a saying that if one speaker can't remember the idea coming from his own mind, he have no right to deliver it to others. Next time I will try to remember the words I presented. Then, maybe I should review the slides more carefully. I had omitted a several slides in presentation, so I didn't convey enough information I expected. Finally, I didn't explain my idea to my group members sufficiently. I get the creative idea so it's my responsibility to give my partner a better understand of the big picture. If I have chance next time, I will communicate members more.
-
-Here are the advantage and disadvantage fro the reflection of my teamwork. With the found confidence and encourage, I am sure that I can do better in the similar activities in future.

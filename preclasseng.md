@@ -1,5 +1,0 @@
- - Paragraphs show the sigle idea or the part of topic, but essays show the whole idea and full topic
- - Paragraphs are organized by sentences, essays are organized by paragraphs.
- - The most important thing about paragraphs are coherence and unity, the most important thing for essays is the macro structure.
- - You can hand up an essay to a academic task, but you can't hand up a piece of paragraph.
- - Writing essays spend more time than writing an paragraph
