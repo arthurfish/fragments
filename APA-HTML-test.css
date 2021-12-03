@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman';
+}
+.essay-header{
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(297mm-2in);
+    width: calc(210mm-2in);
+    padding: 1in;
+}
+
+.essay-title{
+    font-size: 15pt;
+    margin: 1in;
+}
+
+.author-name .class-name .professor-name .finish-date{
+    font-size:12pt;
+    margin: 1in;
+}
+
+
+.content{
+    line-height: 2;
+    width: calc(210mm-2in);
+    height: calc(297mm-2in);
+    text-indent: 0.5in;
+    /* padding: 1in; */
+}
+
+@page{
+    size: auto;
+    
+}
