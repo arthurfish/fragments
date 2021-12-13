@@ -1,12 +1,7 @@
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
+import java.nio.file.*;
 
 public class md2apa {
-    static HashMap<String, ArrayList<String>> essay;
     static FileWriter outputFile;
 
     static void out(String s) {

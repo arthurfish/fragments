@@ -1,22 +1,25 @@
 body{
     font-family: 'Times New Roman';
+    padding: 1in;
+    margin: 0in;
+    width: calc(210mm - 2in);    
 }
+
 .header{
     page-break-after: always;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: calc(297mm-2in);
-    width: calc(210mm-2in);
-    padding: 1in;
+    height: calc(290mm - 2in);
     font-size: 12pt;
 }
 
-.header p{
-    margin: 0.3in;
+.header p:first-child{
+    font-weight: bold;
+    font-size: 15pt;
+    margin: 1in;
 }
-
 
 .content{
     line-height: 2;
@@ -25,12 +28,19 @@ body{
     page-break-after: always;
 }
 
+.content p:first-child {
+    text-align: center;
+    font-weight: bold;
+}
+
 .reference p{
     margin-left: 1in;
     text-indent: -1in;
 }
 
-@page{
-    size: auto;
-    
+.reference p:first-child{
+    margin: 0.5in;
+    text-indent: 0in;
+    text-align: center;
+    font-size: 14pt;
 }
