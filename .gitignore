@@ -1,2 +1,7 @@
 *.csv
 *~
+*.tmp
+*.zip
+*.7z
+*.xls
+*.xlsx
