@@ -1,0 +1,74 @@
+# Collected from Matthew
+Device:
+-
+ - (Phone) Phonetroller - Visual Representations of Fingers for Precise Touch Input with Mobile Phones in VR
+ - https://dl.acm.org/doi/abs/10.1145/3411764.3445583 
+
+-
+ - FingerTrak - Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes Captured by Miniature Thermal Cameras on Wrist
+ - https://dl.acm.org/doi/abs/10.1145/3397306 
+
+-
+ - (wrist-type smart band device)deepGesture - Deep learning-based gesture recognition scheme using motion sensors
+ - https://www.sciencedirect.com/science/article/pii/S0141938217302032 
+
+-
+ - (linear optical sensor) Gesture Recognition With the Linear Optical Sensor and Recurrent Neural Networks
+ - https://ieeexplore.ieee.org/abstract/document/8357549
+
+-
+ - (Kinect)Hand gesture recognition with depth images - A review
+ - https://ieeexplore.ieee.org/abstract/document/6343787
+
+-
+ - (limb motion recognition)sEMG-Based Gesture Recognition with Convolution Neural Networks
+ - https://www.mdpi.com/2071-1050/10/6/1865
+
+Algorithm:
+- 
+ - (interesting)Impact of machine learning techniques on hand gesture recognition
+ - https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs190353
+
+- 
+ - Learning to recognize human actions - from hand-crafted to deep-learning based visual representations
+ - http://diposit.ub.edu/dspace/handle/2445/132758 
+
+-
+ - (sign language) A Machine Learning Based Approach for Hand Gesture Recognition using Distinctive Feature Extraction
+ - https://ieeexplore.ieee.org/abstract/document/8301631 
+
+-
+ - (sign language) Deep learning in vision-based static hand gesture recognition
+ - https://link.springer.com/article/10.1007/s00521-016-2294-8
+
+-
+ - (static gesture)Development of hand gesture recognition system using machine learning
+ - https://link.springer.com/article/10.1007/s12652-020-02314-2 
+
+- 
+ - (static gesture)A comparison of machine learning algorithms applied to hand gesture recognition
+ - https://ieeexplore.ieee.org/abstract/document/6263058 
+
+-
+ - A Survey on Deep Learning Based Approaches for Action and Gesture Recognition in Image Sequences
+ - https://ieeexplore.ieee.org/abstract/document/7961779 
+
+-
+ - Deep Learning-Based Fast Hand Gesture Recognition Using Representative Frames
+ - https://ieeexplore.ieee.org/abstract/document/7797030
+
+- 
+ - Transfer learning-based convolutional neural networks with heuristic optimization for hand gesture recognition
+ - https://link.springer.com/article/10.1007/s00521-019-04427-y 
+
+- 
+ - Real-time Vision-based Hand Gesture Recognition Using Haar-like Features
+ - https://ieeexplore.ieee.org/abstract/document/4258134
+
+-
+ - A Deep Learning-Based End-to-End Composite System for Hand Detection and Gesture Recognition
+ - https://www.mdpi.com/1424-8220/19/23/5282
+
+- (seems not good)
+ - Hand gesture recognition using machine learning algorithms
+ - http://iaesprime.com/index.php/csit/article/view/96

@@ -1,0 +1,31 @@
+#colected from Dylon
+Device:
+-
+ - (neuromorphic sensor fusion) Hand-Gesture Recognition Based on EMG and Event-Based Camera Sensor Fusion - A Benchmark in Neuromorphic Computing
+ - https://www.frontiersin.org/articles/10.3389/fnins.2020.00637/full
+
+-
+ - (ToF depth sensor) Robust hand gesture recognition using multiple shape-oriented visual cues
+ - https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-021-00567-1
+
+Application:
+-
+ - (seems good) How to build a Gesture Controlled Web based Game using Tensorflow Object Detection Api
+ - https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907
+
+-
+ - (simple but useful) Real-time Hand Gesture Recognition using TensorFlow & OpenCV
+ - https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+
+Algorithm:
+-
+ - (sign language) Hand Gesture Recognition for Sign Language Using 3DCNN
+ - https://ieeexplore.ieee.org/document/9078786
+
+-
+ - (not useful?)Hand Gesture Recognition with Skin Detection and Deep Learning Method
+ - https://iopscience.iop.org/article/10.1088/1742-6596/1213/2/022001/pdf
+
+-
+ - (new features) A novel set of features for continuous hand gesture recognition
+ - https://scholarworks.iupui.edu/handle/1805/23876

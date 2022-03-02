@@ -1,0 +1,35 @@
+#Collected form Jerry
+Algorithm:
+-
+ - (seems interesting)Shadow gestures -  3D hand pose estimation using a single camera
+ - https://ieeexplore.ieee.org/abstract/document/786981
+
+- 
+ - (static gesture) Hand Recognition Using Geometric Classifiers
+ - https://link.springer.com/chapter/10.1007/978-3-540-25948-0_102
+
+- 
+ - (seems not good) A fast algorithm for vision-based hand gesture recognition for robot control
+ - https://research.sabanciuniv.edu/1225/
+
+- 
+ - View-independent recognition of hand postures
+ - https://ieeexplore.ieee.org/abstract/document/854749
+
+Device:
+-
+ - (electromyogram) Hand gesture recognition and virtual game control based on 3D accelerometer and EMG sensors
+ - https://dl.acm.org/doi/abs/10.1145/1502650.1502708
+
+-
+ - (position tracker) A hand gesture recognition technique for human–computer interaction
+ - https://www.sciencedirect.com/science/article/abs/pii/S104732031500022X 
+
+Application:
+-
+ - (static gesture)Chinese number gestures recognition app
+ - https://github.com/tz28/Chinese-number-gestures-recognition
+
+- 
+ - (static gesture) Gesture_cognition(手势识别)
+ - https://github.com/AeneonLXC/pythonProject2/tree/master/gesture_recognition/gesture

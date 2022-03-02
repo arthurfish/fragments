@@ -1,0 +1,188 @@
+Algorithm:
+- - (Seems good!)Hand gesture recognition using combined featuresof location, angle
+    and velocity
+  - https://www.sciencedirect.com/science/article/pii/S0031320300000960
+
+- - (Static gesture recognition)A fast algorithm for vision-based hand gesture recognition
+    for robot control
+  - https://research.sabanciuniv.edu/1225/1/malima_SIU06.pdf
+
+- - (Static gesture recognition) Hand gesture recognition method based on HOG-LBP
+    features for mobile devices
+  - https://www.sciencedirect.com/science/article/pii/S1877050918312353
+
+- - (Static gesture from cluttered background)Real Time Hand Gesture Recognition using
+    Random Forest and Linear Discriminant Analysis
+  - https://www.researchgate.net/profile/Rammohan-Mallipeddi/publication/286331414_Real_Time_Hand_Gesture_Recognition_Using_Random_Forest_and_Linear_Discriminant_Analysis/links/5667e1ca08aea62726ee9ec0/Real-Time-Hand-Gesture-Recognition-Using-Random-Forest-and-Linear-Discriminant-Analysis.pdf
+
+- - (Seems good!)A Real-time Hand Gesture Recognition and Human-Computer Interaction
+    System
+  - https://arxiv.org/pdf/1704.07296.pdf
+
+- - Hand gesture recognition based on convolution neural network
+  - https://link.springer.com/article/10.1007/s10586-017-1435-x
+
+- - Hand Gesture Recognition for Human Computer Interaction
+  - https://www.sciencedirect.com/science/article/pii/S1877050917319130
+
+- - Orientation histograms for hand gesture recognition
+  - https://john.cs.olemiss.edu/heroes/papers/hand_gesture.pdf
+
+- - (Interesting)Hand Gesture Recognition in Multi-space of 2D/3D
+  - http://cloud.politala.ac.id/politala/1.%20Jurusan/Teknik%20Informatika/19.%20e-journal/Jurnal%20Internasional%20TI/IJCSNS/2015%20Vol.%2015%20No.%2006/20150603_Hand%20Gesture%20Recognition%20in%20Multi-space%20of%202D3D.pdf
+
+
+- - (interesting)Impact of machine learning techniques on hand gesture recognition
+  - https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs190353
+
+- - Learning to recognize human actions - from hand-crafted to deep-learning based
+    visual representations
+  - http://diposit.ub.edu/dspace/handle/2445/132758
+
+- - (sign language) A Machine Learning Based Approach for Hand Gesture Recognition
+    using Distinctive Feature Extraction
+  - https://ieeexplore.ieee.org/abstract/document/8301631
+
+- - (sign language) Deep learning in vision-based static hand gesture recognition
+  - https://link.springer.com/article/10.1007/s00521-016-2294-8
+
+- - (static gesture)Development of hand gesture recognition system using machine learning
+  - https://link.springer.com/article/10.1007/s12652-020-02314-2
+
+- - (static gesture)A comparison of machine learning algorithms applied to hand gesture
+    recognition
+  - https://ieeexplore.ieee.org/abstract/document/6263058
+
+- - A Survey on Deep Learning Based Approaches for Action and Gesture Recognition
+    in Image Sequences
+  - https://ieeexplore.ieee.org/abstract/document/7961779
+
+- - Deep Learning-Based Fast Hand Gesture Recognition Using Representative Frames
+  - https://ieeexplore.ieee.org/abstract/document/7797030
+
+- - Transfer learning-based convolutional neural networks with heuristic optimization
+    for hand gesture recognition
+  - https://link.springer.com/article/10.1007/s00521-019-04427-y
+
+- - Real-time Vision-based Hand Gesture Recognition Using Haar-like Features
+  - https://ieeexplore.ieee.org/abstract/document/4258134
+
+- - A Deep Learning-Based End-to-End Composite System for Hand Detection and Gesture
+    Recognition
+  - https://www.mdpi.com/1424-8220/19/23/5282
+
+- - (seems not good) - Hand gesture recognition using machine learning algorithms -
+  - http://iaesprime.com/index.php/csit/article/view/96
+- - (seems interesting)Shadow gestures -  3D hand pose estimation using a single camera
+  - https://ieeexplore.ieee.org/abstract/document/786981
+
+- - (static gesture) Hand Recognition Using Geometric Classifiers
+  - https://link.springer.com/chapter/10.1007/978-3-540-25948-0_102
+
+- - (seems not good) A fast algorithm for vision-based hand gesture recognition for
+    robot control
+  - https://research.sabanciuniv.edu/1225/
+
+- - View-independent recognition of hand postures
+  - https://ieeexplore.ieee.org/abstract/document/854749
+
+- - (static gesture)Development of hand gesture recognition system using machine learning
+  - https://link.springer.com/article/10.1007/s12652-020-02314-2
+
+- - (dynamic gesture!) Selective spatiotemporal features learning for dynamic gesture
+    recognition
+  - https://www.sciencedirect.com/science/article/abs/pii/S095741742031143X?via%3Dihub
+
+- - Real-Time Hand Gesture Recognition Based on Deep Learning YOLOv3 Model
+  - https://www.mdpi.com/2076-3417/11/9/4164
+
+- - (seems not useful) Occlusion gesture recognition based on improved SSD
+  - https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6063
+
+- - (sign language) Hand Gesture Recognition for Sign Language Using 3DCNN
+  - https://ieeexplore.ieee.org/document/9078786
+
+- - (not useful?)Hand Gesture Recognition with Skin Detection and Deep Learning Method
+  - https://iopscience.iop.org/article/10.1088/1742-6596/1213/2/022001/pdf
+
+- - (new features) A novel set of features for continuous hand gesture recognition
+  - https://scholarworks.iupui.edu/handle/1805/23876
+Device:
+- - (ToF Camera)Lightweight palm and finger tracking for real-time 3D gesture control
+  - https://ieeexplore.ieee.org/document/5759431
+
+- - (accelerometer (ACC) and multichannel electromyography (EMG))Hand gesture recognition
+    and virtual game control based on 3D accelerometer and EMG sensors
+  - https://dl.acm.org/doi/abs/10.1145/1502650.1502708
+
+- - (accelerometer (ACC) and multichannel electromyography (EMG))A Framework for Hand
+    Gesture Recognition Based on Accelerometer and EMG Sensors
+  - https://ieeexplore.ieee.org/abstract/document/5735233
+
+- - (Phone)Gesture Controlled Computer Applications Using Embedded Accelerometer in
+    Android Device
+  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.734.8667&rep=rep1&type=pdf
+- - (Phone) Phonetroller - Visual Representations of Fingers for Precise Touch Input
+    with Mobile Phones in VR
+  - https://dl.acm.org/doi/abs/10.1145/3411764.3445583
+
+- - FingerTrak - Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes
+    Captured by Miniature Thermal Cameras on Wrist
+  - https://dl.acm.org/doi/abs/10.1145/3397306
+
+- - (wrist-type smart band device)deepGesture - Deep learning-based gesture recognition
+    scheme using motion sensors
+  - https://www.sciencedirect.com/science/article/pii/S0141938217302032
+
+- - (linear optical sensor) Gesture Recognition With the Linear Optical Sensor and
+    Recurrent Neural Networks
+  - https://ieeexplore.ieee.org/abstract/document/8357549
+
+- - (Kinect)Hand gesture recognition with depth images - A review
+  - https://ieeexplore.ieee.org/abstract/document/6343787
+
+- - (limb motion recognition)sEMG-Based Gesture Recognition with Convolution Neural
+    Networks
+  - https://www.mdpi.com/2071-1050/10/6/1865
+
+- - (electromyogram) Hand gesture recognition and virtual game control based on 3D
+    accelerometer and EMG sensors
+  - https://dl.acm.org/doi/abs/10.1145/1502650.1502708
+
+- - (position tracker) A hand gesture recognition technique for human–computer interaction
+  - https://www.sciencedirect.com/science/article/abs/pii/S104732031500022X
+
+- - (wearable capacitive sensor) Multi-Features Capacitive Hand Gesture Recognition
+    Sensor - A Machine Learning Approach
+  - https://ieeexplore.ieee.org/abstract/document/9314169
+
+- - (frequency-modulated continuous-wave radar) Hand Gesture Recognition Using FMCW
+    Radar in Multi-Person Scenario
+  - https://ieeexplore.ieee.org/abstract/document/9413794
+- - (neuromorphic sensor fusion) Hand-Gesture Recognition Based on EMG and Event-Based
+    Camera Sensor Fusion - A Benchmark in Neuromorphic Computing
+  - https://www.frontiersin.org/articles/10.3389/fnins.2020.00637/full
+
+- - (ToF depth sensor) Robust hand gesture recognition using multiple shape-oriented
+    visual cues
+  - https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-021-00567-1
+
+Application:
+- - (static gesture)Chinese number gestures recognition app
+  - https://github.com/tz28/Chinese-number-gestures-recognition
+
+- - (static gesture) Gesture_cognition(手势识别)
+  - https://github.com/AeneonLXC/pythonProject2/tree/master/gesture_recognition/gesture
+- - (seems good) Gestop - Customizable Gesture Control of Computer Systems
+  - https://dl.acm.org/doi/abs/10.1145/3430984.3430993
+
+- - STRONGER - Simple TRajectory-based ONline GEsture Recognizer
+  - https://diglib.eg.org/bitstream/handle/10.2312/stag20211481/109-117.pdf
+
+- - (seems good) How to build a Gesture Controlled Web based Game using Tensorflow
+    Object Detection Api
+  - https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907
+
+- - (simple but useful) Real-time Hand Gesture Recognition using TensorFlow & OpenCV
+  - https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+
