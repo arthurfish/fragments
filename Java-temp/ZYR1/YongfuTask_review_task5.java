@@ -1,5 +1,3 @@
-package java1_review;
-
 public class YongfuTask_review_task5 {
 	public static double countSmaller(double[] number1) {
 		final int ELEMENTS = 100;

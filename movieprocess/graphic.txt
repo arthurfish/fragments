@@ -1,0 +1,36 @@
+@startuml
+start
+:tmdb_5000_movies.csv;
+fork
+    :feature:overview(origin);
+    :Lowecase;
+    :Remove punctuation;
+    :Tokenize;
+    :Remove stopword;
+    :Stem;
+fork again
+    :feature:keywords(origin);
+fork again
+    :feature:revenue(origin);
+    :Categories;
+fork again
+    :feature:companies_name(origin);
+fork again
+    :feature:spoken_languages(origin);
+fork again
+    :feature:release_date(origin);
+    :Categorie by 10 years;
+fork again
+    :feature:vote_average(origin);
+    :Categorie by four parts([0, 4], (4, 6], (6, 8]);
+fork again
+    :feature:popularities(origin);
+    :Categorie into 6 levels;
+end fork
+:target_db.csv;
+:merge all processed feature in one line;
+:transform this merged table by **tf-idf** algorithm to vectors;
+:calculate cosine_similarity matrix between the vectors;
+:get user's input and output the most similar ones in the matrix;
+stop
+@enduml
